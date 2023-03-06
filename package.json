@@ -1,0 +1,26 @@
+{
+  "name": "ticket-webpay",
+  "version": "1.0.0",
+  "description": "Integracion con webpay",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Fabian Nahuel-Ayllasolutions",
+  "license": "ISC",
+  "dependencies": {
+    "aspose.barcode": "^22.6.0",
+    "barcode4nodejs": "^9.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-fileupload": "^1.4.0",
+    "fixed-mount-barcode-scanner": "^0.0.5",
+    "hid-barcode-scanner": "^1.0.6",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.7.5",
+    "socketio": "^1.0.0",
+    "transbank-sdk": "^3.0.2",
+    "xlsx": "^0.18.5"
+  }
+}
